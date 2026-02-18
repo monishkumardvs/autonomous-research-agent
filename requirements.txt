@@ -1,0 +1,5 @@
+# Required Python packages for Autonomous Research Assistant
+pdfplumber>=0.10.0
+openai>=1.0.0
+anthropic>=0.18.0
+python-dotenv>=1.0.0

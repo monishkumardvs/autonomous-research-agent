@@ -1,0 +1,298 @@
+{
+  "total": 16,
+  "success": 16,
+  "failed": 0,
+  "by_field": {
+    "Computer Vision": 1,
+    "Machine Learning": 12,
+    "Natural Language Processing": 3
+  },
+  "papers": [
+    {
+      "success": true,
+      "file": "2602.11281v1.pdf",
+      "new_name": "2023_DEEPRED_AN_ARCHITECTURE_FOR_REDSHIFT_ESTIMATION_MeroniAlessandro_et_al.pdf",
+      "path": "output\\Computer_Vision\\Transformers\\2023_DEEPRED_AN_ARCHITECTURE_FOR_REDSHIFT_ESTIMATION_MeroniAlessandro_et_al.pdf",
+      "field": "Computer Vision",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "DEEPRED: AN ARCHITECTURE FOR REDSHIFT ESTIMATION",
+        "authors": [
+          "MeroniAlessandro",
+          "PinciroliNicol\u00f8Oreste"
+        ],
+        "year": 2023,
+        "field": "Computer Vision",
+        "subtopic": "Transformers"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.13104v2.pdf",
+      "new_name": "2001_Random_Forests_as_Statistical_Procedures_Design_Va_OConnell_et_al.pdf",
+      "path": "output\\Machine_Learning\\Random_Forest\\2001_Random_Forests_as_Statistical_Procedures_Design_Va_OConnell_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Random Forest",
+      "meta": {
+        "title": "Random Forests as Statistical Procedures: Design, Variance, and Dependence",
+        "authors": [
+          "O\u2019Connell",
+          "NathanielS"
+        ],
+        "year": 2001,
+        "field": "Machine Learning",
+        "subtopic": "Random Forest"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.13158v1.pdf",
+      "new_name": "2025_A_new_mixture_model_for_spatiotemporal_exceedances_Majumder3.pdf",
+      "path": "output\\Machine_Learning\\Randomforest\\2025_A_new_mixture_model_for_spatiotemporal_exceedances_Majumder3.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Randomforest",
+      "meta": {
+        "title": "A new mixture model for spatiotemporal exceedances",
+        "authors": [
+          "Li1, Hector1,2, Reich1, Majumder3"
+        ],
+        "year": 2025,
+        "field": "Machine Learning",
+        "subtopic": "Randomforest"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.13271v1.pdf",
+      "new_name": "2023_Human_Centered_Explainable_AI_for_Security_Enhance_Ayan_et_al.pdf",
+      "path": "output\\Machine_Learning\\Random_Forest\\2023_Human_Centered_Explainable_AI_for_Security_Enhance_Ayan_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Random Forest",
+      "meta": {
+        "title": "Human-Centered Explainable AI for Security Enhancement: A Deep Intrusion Detection Framework",
+        "authors": [
+          "Ayan",
+          "Rashid"
+        ],
+        "year": 2023,
+        "field": "Machine Learning",
+        "subtopic": "Random Forest"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.14009v1.pdf",
+      "new_name": "2023_Named_Entity_Recognition_for_Payment_Data_Using_NL_Nayak_et_al.pdf",
+      "path": "output\\Natural_Language_Processing\\BERT\\2023_Named_Entity_Recognition_for_Payment_Data_Using_NL_Nayak_et_al.pdf",
+      "field": "Natural Language Processing",
+      "subtopic": "BERT",
+      "meta": {
+        "title": "Named Entity Recognition for Payment Data Using NLP",
+        "authors": [
+          "Nayak",
+          "Srikumar"
+        ],
+        "year": 2023,
+        "field": "Natural Language Processing",
+        "subtopic": "BERT"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.14259v1.pdf",
+      "new_name": "2023_Detecting_LLM_Hallucinations_via_Embedding_Cluster_MaticKorun.pdf",
+      "path": "output\\Machine_Learning\\Transformers\\2023_Detecting_LLM_Hallucinations_via_Embedding_Cluster_MaticKorun.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "Detecting LLM Hallucinations via Embedding Cluster Geometry: A Three-Type Taxonomy with Measurable Signatures",
+        "authors": [
+          "MaticKorun"
+        ],
+        "year": 2023,
+        "field": "Machine Learning",
+        "subtopic": "Transformers"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15069v1.pdf",
+      "new_name": "2026_Travel_Time_Prediction_from_Sparse_Open_Data_Boeing_et_al.pdf",
+      "path": "output\\Machine_Learning\\Random_Forest\\2026_Travel_Time_Prediction_from_Sparse_Open_Data_Boeing_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Random Forest",
+      "meta": {
+        "title": "Travel Time Prediction from Sparse Open Data",
+        "authors": [
+          "Boeing",
+          "Zhou"
+        ],
+        "year": 2026,
+        "field": "Machine Learning",
+        "subtopic": "Random Forest"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15139v1.pdf",
+      "new_name": "2023_CGRA_DeBERTa_Concept_Guided_Residual_Augmentation__Tahir_et_al.pdf",
+      "path": "output\\Natural_Language_Processing\\Transformers\\2023_CGRA_DeBERTa_Concept_Guided_Residual_Augmentation__Tahir_et_al.pdf",
+      "field": "Natural Language Processing",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "CGRA-DeBERTa: Concept-Guided Residual Augmentation Transformer for Theologically Islamic Understanding",
+        "authors": [
+          "Hussain1 Tahir",
+          "Hussain Khan Saddam"
+        ],
+        "year": 2023,
+        "field": "Natural Language Processing",
+        "subtopic": "Transformers"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15141v1.pdf",
+      "new_name": "2026_Mimicking_the_large_scale_structure_of_the_Local_U_M_et_al.pdf",
+      "path": "output\\Machine_Learning\\Random_Forest\\2026_Mimicking_the_large_scale_structure_of_the_Local_U_M_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Random Forest",
+      "meta": {
+        "title": "Mimicking the large-scale structure of the Local Universe",
+        "authors": [
+          "Alc\u00e1zar-Laynez M",
+          "Duarte Puertas S"
+        ],
+        "year": 2026,
+        "field": "Machine Learning",
+        "subtopic": "Random Forest"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15178v1.pdf",
+      "new_name": "2024_Deciphering_Majorana_Zero_Modes_in_Topological_Sup_Park1_et_al.pdf",
+      "path": "output\\Machine_Learning\\Random_Forest\\2024_Deciphering_Majorana_Zero_Modes_in_Topological_Sup_Park1_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Random Forest",
+      "meta": {
+        "title": "Deciphering Majorana Zero Modes in Topological Superconductor FeTe Se with Machine-Learning-Assisted Spectral Deconvolution",
+        "authors": [
+          "Park1",
+          "Li1"
+        ],
+        "year": 2024,
+        "field": "Machine Learning",
+        "subtopic": "Random Forest"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15237v1.pdf",
+      "new_name": "2025_Ground_TruthDepth_in_Vision_Language_Models_Spatia_GutierrezMaquilon_et_al.pdf",
+      "path": "output\\Machine_Learning\\Transformers\\2025_Ground_TruthDepth_in_Vision_Language_Models_Spatia_GutierrezMaquilon_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "Ground-TruthDepth in Vision Language Models: Spatial Context Understanding in Conversational AI for XR-Robotic Support in Emergency First Response",
+        "authors": [
+          "GutierrezMaquilon",
+          "Hueber"
+        ],
+        "year": 2025,
+        "field": "Machine Learning",
+        "subtopic": "Transformers"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15383v1.pdf",
+      "new_name": "2022_Bridging_Day_and_Night_Target_Class_Hallucination__Tan12.pdf",
+      "path": "output\\Machine_Learning\\Transformers\\2022_Bridging_Day_and_Night_Target_Class_Hallucination__Tan12.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "Bridging Day and Night: Target-Class Hallucination Suppression in Unpaired Image Translation",
+        "authors": [
+          "Li1, Tan1,2"
+        ],
+        "year": 2022,
+        "field": "Machine Learning",
+        "subtopic": "Transformers"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15684v1.pdf",
+      "new_name": "2024_Estimating_Human_Muscular_Fatigue_in_Dynamic_Colla_Kiki1_et_al.pdf",
+      "path": "output\\Machine_Learning\\XGBoost\\2024_Estimating_Human_Muscular_Fatigue_in_Dynamic_Colla_Kiki1_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "XGBoost",
+      "meta": {
+        "title": "Estimating Human Muscular Fatigue in Dynamic Collaborative Robotic Tasks with Learning-Based Models",
+        "authors": [
+          "Kiki1",
+          "Niaz1"
+        ],
+        "year": 2024,
+        "field": "Machine Learning",
+        "subtopic": "XGBoost"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15720v1.pdf",
+      "new_name": "2023_ToaSt_Token_Channel_Selection_and_Structured_Pruni_MoonH_et_al.pdf",
+      "path": "output\\Machine_Learning\\Transformers\\2023_ToaSt_Token_Channel_Selection_and_Structured_Pruni_MoonH_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "ToaSt: Token Channel Selection and Structured Pruning for Efficient ViT",
+        "authors": [
+          "MoonH",
+          "ParkC",
+          "WaslanderS"
+        ],
+        "year": 2023,
+        "field": "Machine Learning",
+        "subtopic": "Transformers"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15780v1.pdf",
+      "new_name": "2026_Deep_Learning_for_Point_Spread_Function_Modeling_i_D_et_al.pdf",
+      "path": "output\\Machine_Learning\\Autoencoder\\2026_Deep_Learning_for_Point_Spread_Function_Modeling_i_D_et_al.pdf",
+      "field": "Machine Learning",
+      "subtopic": "Autoencoder",
+      "meta": {
+        "title": "Deep Learning for Point Spread Function Modeling in Cosmology",
+        "authors": [
+          "HenaoArbel\u00e1ez, D.",
+          "L\u00e9get, P.-F."
+        ],
+        "year": 2026,
+        "field": "Machine Learning",
+        "subtopic": "Autoencoder"
+      }
+    },
+    {
+      "success": true,
+      "file": "2602.15814v1.pdf",
+      "new_name": "2026_Avey_B_Acharya_et_al.pdf",
+      "path": "output\\Natural_Language_Processing\\Transformers\\2026_Avey_B_Acharya_et_al.pdf",
+      "field": "Natural Language Processing",
+      "subtopic": "Transformers",
+      "meta": {
+        "title": "Avey-B",
+        "authors": [
+          "Acharya",
+          "Hammoud"
+        ],
+        "year": 2026,
+        "field": "Natural Language Processing",
+        "subtopic": "Transformers"
+      }
+    }
+  ]
+}

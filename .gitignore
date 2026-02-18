@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Environment variables
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific
+output/
+logs/*.log
+*.pdf
+# Keep test_papers folder but ignore PDFs
+!test_papers/.gitkeep
+
+# Accomplish
+accomplish/node_modules/
+accomplish/dist/
+accomplish/.pnpm-store/
