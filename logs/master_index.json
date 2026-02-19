@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-02-19T22:51:38.544408",
+  "total_papers": 16,
+  "total_fields": 3,
+  "library": {
+    "Computer_Vision": {
+      "Transformers": [
+        {
+          "filename": "2023_DEEPRED_AN_ARCHITECTURE_FOR_REDSHIFT_ESTIMATION_MeroniAlessandro_et_al.pdf",
+          "path": "output\\Computer_Vision\\Transformers\\2023_DEEPRED_AN_ARCHITECTURE_FOR_REDSHIFT_ESTIMATION_MeroniAlessandro_et_al.pdf",
+          "year": "2023",
+          "size_kb": 1041.1,
+          "abstract_snippet": "ABSTRACT Estimatingredshiftisacentraltaskinastrophysics,butitsmeasurementiscostlyandtime-consuming. Inaddition,currentimage-basedmethodsareoftenvalidatedonhomogeneousdatasets. Thedevel- opmentandcomparisonofnetworksablegeneralizeacrossdifferentmorphologies,rangingfrom galaxiestogravitationally-lensedtransients,andobservationalconditions,remainanopenchallenge. Thiswork proposesDeepRed, adeep learning pipelinethatdemonstrates howmodern computer visionarchitectures,includingResNet,EfficientNet,SwinTransformer,andMLP-Mixer,canestimate redshiftsfromimagesofgalaxies,gravitationallenses,andgravitatio"
+        }
+      ]
+    },
+    "Machine_Learning": {
+      "Autoencoder": [
+        {
+          "filename": "2026_Deep_Learning_for_Point_Spread_Function_Modeling_i_D_et_al.pdf",
+          "path": "output\\Machine_Learning\\Autoencoder\\2026_Deep_Learning_for_Point_Spread_Function_Modeling_i_D_et_al.pdf",
+          "year": "2026",
+          "size_kb": 9339.2,
+          "abstract_snippet": "Abstract Wepresentthedevelopmentofadata-driven,AI-basedmodelofthePointSpreadFunction(PSF)thatachieves higheraccuracythanthecurrentstate-of-the-artapproach,“PSFintheFullField-of-View\"(PIFF).PIFFiswidelyusedin leadingweak-lensingsurveys,includingtheDarkEnergySurvey(DES),theHyperSuprime-Cam(HSC)Survey,andthe VeraC.RubinObservatoryLegacySurveyofSpaceandTime(LSST).ThePSFcharacterizeshowapointsource,such asastar,isimagedafteritslighttraversestheatmosphereandtelescopeoptics,effectivelyrepresentingthe“blurred fingerprint”oftheentireimagingsystem.AccuratePSFmodelingisessentialforweakgravitationallensin"
+        }
+      ],
+      "Random_Forest": [
+        {
+          "filename": "2001_Random_Forests_as_Statistical_Procedures_Design_Va_OConnell_et_al.pdf",
+          "path": "output\\Machine_Learning\\Random_Forest\\2001_Random_Forests_as_Statistical_Procedures_Design_Va_OConnell_et_al.pdf",
+          "year": "2001",
+          "size_kb": 366.4,
+          "abstract_snippet": "Abstract Random forests are widely used prediction procedures, yet are typically described algorithmically rather than as statistical designs acting on a fixed set of covariates. We develop a finite-sample, design-based formulation of random forests in which each tree is an explicit randomized conditional regressionfunction. Thisperspectiveyieldsanexactvarianceidentityfortheforestpredictorthatsep- arates finite-aggregation variability from a structural dependence term that persists even under infinite aggregation. Wefurtherdecomposebothsingle-treedispersionandinter-treecovarianceusingthelaws o"
+        },
+        {
+          "filename": "2023_Human_Centered_Explainable_AI_for_Security_Enhance_Ayan_et_al.pdf",
+          "path": "output\\Machine_Learning\\Random_Forest\\2023_Human_Centered_Explainable_AI_for_Security_Enhance_Ayan_et_al.pdf",
+          "year": "2023",
+          "size_kb": 1544.0,
+          "abstract_snippet": "Abstract—The increasing complexity and frequency of cyber- Eachcyber-attackresultsinfinancialloss,reputationaldamage threats demand intrusion detection systems (IDS) that are not also potential legal liabilities. The formation of IDS has an only accurate but also interpretable. This paper presented a effectonbothacademicsectionandbusinesssectorinaglobal novelIDSframeworkthatintegratedExplainableArtificialIntel- scale [2]. Intrusion detection has always been a significant ligence (XAI) to enhance transparency in deep learning models. The framework was evaluated experimentally using benchmark ar"
+        },
+        {
+          "filename": "2024_Deciphering_Majorana_Zero_Modes_in_Topological_Sup_Park1_et_al.pdf",
+          "path": "output\\Machine_Learning\\Random_Forest\\2024_Deciphering_Majorana_Zero_Modes_in_Topological_Sup_Park1_et_al.pdf",
+          "year": "2024",
+          "size_kb": 896.7,
+          "abstract_snippet": "Abstract An unambiguous identification of Majorana zero modes (MZMs) in topological superconductors (TSC) remains a challenge due to complex in-gap states that can also produce zero-bias conductance peaks (ZBPs). Here we demonstrate a data-driven workflow that integrates pixel-wise spectral deconvolution with machine-learning (ML) to analyze tunneling spectroscopy from FeTe Se , an intrinsic TSC. Based on 0.55 0.45 the local density of states (LDOS) spectra acquired with a millikelvin scanning tunnelling microscope under magnetic fields, each spectrum was decomposed into multiple Lorentzian pe"
+        },
+        {
+          "filename": "2026_Mimicking_the_large_scale_structure_of_the_Local_U_M_et_al.pdf",
+          "path": "output\\Machine_Learning\\Random_Forest\\2026_Mimicking_the_large_scale_structure_of_the_Local_U_M_et_al.pdf",
+          "year": "2026",
+          "size_kb": 8140.0,
+          "abstract_snippet": "ABSTRACT Context.Currentobservationalandsimulatedlarge-scalestructure(LSS)cataloguesoftenlackconsistencyinassigninggalaxiesto specificstructures,duetotheabsenceofauniversallyacceptedclassificationcriterion. Aims. With the aim to generate synthetic empirical data for fine-tuning LSS classification algorithms, as well as to train machine learning(ML)anddeeplearning(DL)modelsforthesamepurpose,thisworkpresentsapurelygeometricalsimulationbasedon thestatisticalspatialpropertiesfoundinLSSsurveys,usingthespectroscopicmaingalaxysampleoftheSloanDigitalSkySurvey (SDSS)catalogueuptoaredshiftofz≃0.1asaspec"
+        },
+        {
+          "filename": "2026_Travel_Time_Prediction_from_Sparse_Open_Data_Boeing_et_al.pdf",
+          "path": "output\\Machine_Learning\\Random_Forest\\2026_Travel_Time_Prediction_from_Sparse_Open_Data_Boeing_et_al.pdf",
+          "year": "2026",
+          "size_kb": 2555.8,
+          "abstract_snippet": "Abstract Traveltimepredictioniscentraltotransportgeographyandplanning’sacces- sibilityanalyses,sustainabletransportationinfrastructureprovision,andactive transportationinterventions.However,calculatingaccuratetraveltimes,espe- ciallyfordriving,requireseitherextensivetechnicalcapacityandbespokedata,or resourcesliketheGoogleMapsAPIthatquicklybecomeprohibitivelyexpensive toanalyzethousandsormillionsoftripsnecessaryformetropolitan-scaleanalyses. Suchobstaclesparticularlychallengeless-resourcedresearchers, practitioners, andcommunityadvocates.Thisarticlearguesthatamiddle-groundisneeded toproviderea"
+        }
+      ],
+      "Randomforest": [
+        {
+          "filename": "2025_A_new_mixture_model_for_spatiotemporal_exceedances_Majumder3.pdf",
+          "path": "output\\Machine_Learning\\Randomforest\\2025_A_new_mixture_model_for_spatiotemporal_exceedances_Majumder3.pdf",
+          "year": "2025",
+          "size_kb": 2573.7,
+          "abstract_snippet": "Abstract We propose a new model and estimation framework for spatiotemporal streamflow ex- ceedances above a threshold that flexibly captures asymptotic dependence and independence in the tail of the distribution. We model streamflow using a mixture of processes with spatial, temporal and spatiotemporal asymptotic dependence regimes. A censoring mechanism allows us to use only observations above a threshold to estimate marginal and joint probabilities of extreme events. As the likelihood is intractable, we use simulation-based inference powered by random forests to estimate model parameters fr"
+        }
+      ],
+      "Transformers": [
+        {
+          "filename": "2022_Bridging_Day_and_Night_Target_Class_Hallucination__Tan12.pdf",
+          "path": "output\\Machine_Learning\\Transformers\\2022_Bridging_Day_and_Night_Target_Class_Hallucination__Tan12.pdf",
+          "year": "2022",
+          "size_kb": 2369.1,
+          "abstract_snippet": "Abstract annotations. As a result, they often fail to preserve objects fromtargetclassessuchastrafficsignsandvehicles. Day-to-night unpaired image translation is important to To address this, several instance-aware unpaired I2I downstream tasks but remains challenging due to large ap- pearance shifts and the lack of direct pixel-level supervi- methods have been proposed that leverage bounding box sion. Existing methods often introduce semantic hallucina- annotations and class information available during train- tions,whereobjectsfromtargetclassessuchastrafficsigns ing. INIT (Shen et al. 2019) "
+        },
+        {
+          "filename": "2023_Detecting_LLM_Hallucinations_via_Embedding_Cluster_MaticKorun.pdf",
+          "path": "output\\Machine_Learning\\Transformers\\2023_Detecting_LLM_Hallucinations_via_Embedding_Cluster_MaticKorun.pdf",
+          "year": "2023",
+          "size_kb": 1175.2,
+          "abstract_snippet": "Abstract asking whether a model is hallucinating, we ask whatkindofgeometricfailureproducedthehallu- We propose a geometric taxonomy of large cination,andwhetherdifferentfailuremodesleave language model hallucinations based on ob- different measurable signatures in the embedding servable signatures in token embedding clus- space. ter structure. By analyzing the static embed- The core insight is straightforward. Trans- ding spaces of 11 transformer models span- former embedding spaces are not homogeneous: ning encoder (BERT, RoBERTa, ELECTRA, DeBERTa, ALBERT, MiniLM, DistilBERT) they contain cl"
+        },
+        {
+          "filename": "2023_ToaSt_Token_Channel_Selection_and_Structured_Pruni_MoonH_et_al.pdf",
+          "path": "output\\Machine_Learning\\Transformers\\2023_ToaSt_Token_Channel_Selection_and_Structured_Pruni_MoonH_et_al.pdf",
+          "year": "2023",
+          "size_kb": 1503.3,
+          "abstract_snippet": "Abstract VisionTransformers(ViTs)haveachievedremark- ablesuccessacrossvariousvisiontasks,yettheir deploymentisoftenhinderedbyprohibitivecom- putationalcosts. Whilestructuredweightpruning andtokencompressionhaveemergedaspromis- ingsolutions,theysufferfromprolongedretrain- ingtimesandglobalpropagationthatcreatesop- timizationchallenges,respectively. Wepropose ToaSt,adecoupledframeworkapplyingspecial- ized strategies to distinct ViT components. We apply coupled head-wise structured pruning to Figure1. ToaStcompressionmethodology. (a)StandardViT Multi-HeadSelf-Attentionmodules, leveraging blockarc"
+        },
+        {
+          "filename": "2025_Ground_TruthDepth_in_Vision_Language_Models_Spatia_GutierrezMaquilon_et_al.pdf",
+          "path": "output\\Machine_Learning\\Transformers\\2025_Ground_TruthDepth_in_Vision_Language_Models_Spatia_GutierrezMaquilon_et_al.pdf",
+          "year": "2025",
+          "size_kb": 17099.7,
+          "abstract_snippet": "Abstractingwithcreditispermitted.Tocopyotherwise,orrepublish,toposton serversortoredistributetolists,requirespriorspecificpermissionand/orafee.Requestpermissionsfromrodrigo.gutierrez@ait.ac.at. ©2025Copyrightheldbytheowner/author(s).PublishedunderCCBY-NC-SA:CreativeCommonsAttribution-Noncommercial-ShareAlike. 1 6202 beF 61 ]CH.sc[ 1v73251.2062:viXra 2 GutierrezMaquilonetal. Largelanguagemodels(LLMs)areincreasinglyusedinemergencyfirstresponse(EFR)applicationstosupportsituationalawareness (SA)anddecision-making,yetmostoperateontextor2DimageryandofferlittlesupportforcoreEFRSAcompetencieslikespati"
+        }
+      ],
+      "XGBoost": [
+        {
+          "filename": "2024_Estimating_Human_Muscular_Fatigue_in_Dynamic_Colla_Kiki1_et_al.pdf",
+          "path": "output\\Machine_Learning\\XGBoost\\2024_Estimating_Human_Muscular_Fatigue_in_Dynamic_Colla_Kiki1_et_al.pdf",
+          "year": "2024",
+          "size_kb": 8252.2,
+          "abstract_snippet": "Abstract—Assessing human muscle fatigue is critical for opti- mizingperformanceinphysicalhuman–robotinteraction(pHRI) tasks and mitigating safety risks for the human operator. This paper presents a data-driven framework for estimating muscle fatigue in dynamic pHRI tasks using surface electromyography (sEMG) sensors attached to the human arm. Subject-specific machine learning (ML) regression models were developed to estimate fatigue levels during cyclic (i.e., repetitive) pHRI tasks. Specifically, Random Forest, XGBoost, and Linear Regression models were trained to estimate the fraction of cyc"
+        }
+      ]
+    },
+    "Natural_Language_Processing": {
+      "BERT": [
+        {
+          "filename": "2023_Named_Entity_Recognition_for_Payment_Data_Using_NL_Nayak_et_al.pdf",
+          "path": "output\\Natural_Language_Processing\\BERT\\2023_Named_Entity_Recognition_for_Payment_Data_Using_NL_Nayak_et_al.pdf",
+          "year": "2023",
+          "size_kb": 1323.6,
+          "abstract_snippet": "Abstract Named Entity Recognition (NER) has emerged as a critical component in automating financial transaction processing, particularly in extracting structured information from un- structured payment data. This paper presents a comprehensive analysis of state-of-the-art NER algorithms specifically designed for payment data extraction, including Conditional RandomFields(CRF),BidirectionalLongShort-TermMemorywithCRF(BiLSTM-CRF), and transformer-based models such as BERT and FinBERT. We conduct extensive exper- iments on a dataset of 50,000 annotated payment transactions across multiple payment"
+        }
+      ],
+      "Transformers": [
+        {
+          "filename": "2023_CGRA_DeBERTa_Concept_Guided_Residual_Augmentation__Tahir_et_al.pdf",
+          "path": "output\\Natural_Language_Processing\\Transformers\\2023_CGRA_DeBERTa_Concept_Guided_Residual_Augmentation__Tahir_et_al.pdf",
+          "year": "2023",
+          "size_kb": 1031.2,
+          "abstract_snippet": "Abstract The primary sources of Islamic jurisprudence and practice are the hadith texts (or simply` hadiths’), which, among other things, document the teachings, actions, and tacit approvals of the Prophet Muhammad (pbuh). Automated Question Answering (QA) must contend with the intricacies of narratives, the multi-layered histories of a given text, and the depth of the theology underlying any given hadith; as a result, answers are often oblique, misdirected, or overly simplistic. The need for large-scale solutions that provide answers with a high degree of theological accuracy (i.e., theologic"
+        },
+        {
+          "filename": "2026_Avey_B_Acharya_et_al.pdf",
+          "path": "output\\Natural_Language_Processing\\Transformers\\2026_Avey_B_Acharya_et_al.pdf",
+          "year": "2026",
+          "size_kb": 808.7,
+          "abstract_snippet": "ABSTRACT Compact pretrained bidirectional encoders remain the backbone of industrial NLP under tight compute and memory budgets. Their effectiveness stems from self-attention’sabilitytodeliverhigh-qualitybidirectionalcontextualizationwith sequence-levelparallelism,aspopularizedbyBERT-stylearchitectures.Recently, Aveywasintroducedasanautoregressive,attention-freealternativethatnaturally admits an encoder-only adaptation. In this paper, we reformulate Avey for the encoder-only paradigm and propose several innovations to its architecture, in- cluding decoupled static and dynamic parameterizations"
+        }
+      ]
+    }
+  }
+}
